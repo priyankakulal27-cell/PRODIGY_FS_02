@@ -30,3 +30,9 @@ A full-stack web application designed to manage employee records securely. This 
 cd backend
 npm install
 node server.js
+
+###3. Setup the Frontend
+```Bash
+cd frontend
+npm install
+npm start
