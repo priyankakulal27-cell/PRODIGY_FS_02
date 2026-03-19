@@ -31,7 +31,7 @@ cd backend
 npm install
 node server.js
 
-###3. Setup the Frontend
+### 3. Setup the Frontend
 ```Bash
 cd frontend
 npm install
